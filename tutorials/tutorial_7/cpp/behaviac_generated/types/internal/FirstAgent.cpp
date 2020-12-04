@@ -37,7 +37,7 @@ behaviac::EBTStatus FirstAgent::Wait()
 ///<<< BEGIN WRITING YOUR CODE Wait
 	count++;
 
-	printf("p1 = %i\n", p1);
+	printf("p1 = %i %d\n", p1, count);
 
 	if (count == 10000)
 	{

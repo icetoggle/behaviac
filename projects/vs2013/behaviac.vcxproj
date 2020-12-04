@@ -101,7 +101,7 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;DEBUG;_CRTDBG_MAP_ALLOC;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <MinimalRebuild>false</MinimalRebuild>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
-      <SmallerTypeCheck>true</SmallerTypeCheck>
+      <SmallerTypeCheck>false</SmallerTypeCheck>
       <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <PrecompiledHeader>
